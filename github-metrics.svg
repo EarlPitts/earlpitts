@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            935 Commits
+                            936 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="357.3247910511956" height="8" fill="#1e4aec"/>
-                    <rect mask="url(#languages-bar)" x="357.3247910511956" y="0" width="196.60693379565282" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="553.9317248468484" y="0" width="116.74071417065633" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="670.6724390175048" y="0" width="82.84386255959586" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="753.5163015771005" y="0" width="77.10704920945696" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="830.6233507865575" y="0" width="48.892010873807045" height="8" fill="#5e5086"/>
-                    <rect mask="url(#languages-bar)" x="879.5153616603645" y="0" width="20.327110951690607" height="8" fill="#c065db"/>
-                    <rect mask="url(#languages-bar)" x="899.8424726120551" y="0" width="20.15752738794482" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="284.88787253983133" height="8" fill="#1e4aec"/>
+                    <rect mask="url(#languages-bar)" x="284.88787253983133" y="0" width="221.91745079662604" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="506.8053233364574" y="0" width="131.76952202436738" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="638.5748453608248" y="0" width="93.50890346766636" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="732.0837488284911" y="0" width="87.03355201499531" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="819.1173008434865" y="0" width="55.186204311152764" height="8" fill="#5e5086"/>
+                    <rect mask="url(#languages-bar)" x="874.3035051546393" y="0" width="22.943955014058105" height="8" fill="#c065db"/>
+                    <rect mask="url(#languages-bar)" x="897.2474601686974" y="0" width="22.752539831302716" height="8" fill="#000080"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1332,7 +1332,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>python-parsy/parsy</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Easy and elegant parser combinators for Python. With awesome docs.</div>
@@ -1385,7 +1385,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>o2sh/onefetch</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Command-line Git information tool</div>
@@ -1438,7 +1438,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rtr7/router7</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">router7 is a small home internet router completely written in Go. It is implemented as a gokrazy appliance.</div>
@@ -1529,7 +1529,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Aug 2023, 02:32:41 (timezone Europe/Budapest) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 1 Aug 2023, 06:59:26 (timezone Europe/Budapest) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
