@@ -1,6 +1,6 @@
-Hi! My name is Bendeguz. I’m a programmer living in Hungary. I’m currently working in the domain of IT Security.
+Hi! My name is Bendeguz. I’m a programmer living in Hungary. I’m currently working as a Software Developer.
 
-My interests are mainly systems programming, embedded systems and computer science in general, mainly the theory of computation and programming languages.
+My interests lie mainly in programming language theory, type theory and functional programming in general.
 
 I’m a firm believer of FOSS, the importance of decentralization, the UNIX philosophy and the hacker mindset. I think programming is one of the most creative and intellectually satisfying activities one can pursue.
 
