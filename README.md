@@ -1,4 +1,4 @@
-Hi! My name is Bendeguz. I’m a programmer living in Hungary. I’m currently working as a Software Developer.
+Hi! My name is Bendeguz. I’m a programmer living in Hungary. I’m currently working as a software developer.
 
 My interests lie mainly in programming language theory, type theory and functional programming in general.
 
